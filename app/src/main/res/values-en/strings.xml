@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Operaciones</string>
+    <string name="titulo">Options</string>
+    <string name="opcion_areas">Areas</string>
+    <string name="opcion_volumenes">Volumes</string>
+    <string name="opcion_operaciones_realizadas">Operations performed</string>
+    <string name="opcion_area_cuadrado">Quadrate</string>
+    <string name="opcion_area_rectangulo">Rectangle</string>
+    <string name="opcion_area_triangulo">Triangle</string>
+    <string name="opcion_area_circulo">Circle</string>
+    <string name="opcion_volumen_esfera">Sphere</string>
+    <string name="opcion_volumen_cilindro">Cylinder</string>
+    <string name="opcion_volumen_cono">Cone</string>
+    <string name="opcion_volumen_cubo">Cube</string>
+</resources>

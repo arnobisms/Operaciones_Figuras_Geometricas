@@ -5,19 +5,19 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity" >
+    tools:context=".SeleccionarVolumen">
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/textView3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
-        android:text="@string/titulo"
+        android:text="@string/opcion_volumenes"
         android:textSize="24sp"
         android:textStyle="bold" />
 
     <ListView
-        android:id="@+id/lstOpciones"
+        android:id="@+id/lstVolumenes"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 </LinearLayout>
