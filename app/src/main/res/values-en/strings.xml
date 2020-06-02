@@ -13,4 +13,12 @@
     <string name="opcion_volumen_cilindro">Cylinder</string>
     <string name="opcion_volumen_cono">Cone</string>
     <string name="opcion_volumen_cubo">Cube</string>
+    <string name="valor_lado">Side value</string>
+    <string name="calcular">Calculate</string>
+    <string name="limpiar">Delete</string>
+    <string name="resultado">" Outcome"</string>
+    <string name="area">Area:</string>
+    <string name="valor_base">Base value</string>
+    <string name="valor_altura">Height value</string>
+    <string name="valor_radio">Radius value</string>
 </resources>

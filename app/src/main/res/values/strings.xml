@@ -5,13 +5,21 @@
     <string name="opcion_volumenes">Volúmenes</string>
     <string name="opcion_operaciones_realizadas">Operaciones realizadas</string>
     <string name="opcion_area_cuadrado">Cuadrado</string>
-    <string name="opcion_area_rectangulo">Rectangulo</string>
+    <string name="opcion_area_rectangulo">Rectángulo</string>
     <string name="opcion_area_triangulo">Triangulo</string>
     <string name="opcion_area_circulo">Circulo</string>
     <string name="opcion_volumen_esfera">Esfera</string>
     <string name="opcion_volumen_cilindro">Cilindro</string>
     <string name="opcion_volumen_cono">Cono</string>
     <string name="opcion_volumen_cubo">Cubo</string>
+    <string name="valor_lado">Valor del lado:</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Borrar</string>
+    <string name="resultado">Resultado</string>
+    <string name="area">"Area: "</string>
+    <string name="valor_base">Valor base:</string>
+    <string name="valor_altura">Valor Altura:</string>
+    <string name="valor_radio">Valor radio:</string>
 
 
     <string-array name="opciones">
