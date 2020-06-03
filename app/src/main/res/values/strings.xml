@@ -21,6 +21,10 @@
     <string name="valor_altura">Valor Altura:</string>
     <string name="valor_radio">Valor radio:</string>
     <string name="volumen">Volumen:</string>
+    <string name="error_radio">Digite el radio</string>
+    <string name="numero">No</string>
+    <string name="operacion">Operación</string>
+    <string name="datos">Datos</string>
 
 
     <string-array name="opciones">

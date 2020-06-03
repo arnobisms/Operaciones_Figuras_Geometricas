@@ -21,4 +21,6 @@
     <string name="valor_base">Base value</string>
     <string name="valor_altura">Height value</string>
     <string name="valor_radio">Radius value</string>
+    <string name="volumen">Volume:</string>
+    <string name="error_radio">Type radius</string>
 </resources>
