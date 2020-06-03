@@ -20,6 +20,7 @@
     <string name="valor_base">Valor base:</string>
     <string name="valor_altura">Valor Altura:</string>
     <string name="valor_radio">Valor radio:</string>
+    <string name="volumen">Volumen:</string>
 
 
     <string-array name="opciones">
