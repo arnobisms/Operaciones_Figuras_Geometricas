@@ -40,10 +40,32 @@
             android:textStyle="bold" />
     </LinearLayout>
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnCalcularVolumenCubo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="calcular"
+            android:text="@string/calcular" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="limpiar"
+            android:text="@string/limpiar" />
+    </LinearLayout>
+
     <TextView
         android:id="@+id/textView30"
         android:layout_width="match_parent"
-        android:layout_height="42dp"
+        android:layout_height="68dp"
         android:gravity="center_horizontal|center_vertical"
         android:text="@string/resultado"
         android:textSize="18sp"

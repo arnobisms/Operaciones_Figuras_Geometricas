@@ -25,14 +25,15 @@ public class SeleccionarAreaCirculo extends AppCompatActivity {
     public void calcular(View v){
         Double radio, res;
         Operacion op;
+        String msj_radio;
+
 
         if(validar()){
 
             radio = Double.parseDouble(radio_circulo.getText().toString());
             res = 3.1416 * radio * radio;
             resultado.setText(""+ res);
-
-            op = new Operacion("Area del circulo", "Radio:"+radio, res);
+            op = new Operacion(getString(R.string.msj_area_del_circulo), getString(R.string.msj_radio)+radio, res);
             op.guardar();
 
         }
@@ -53,12 +54,10 @@ public class SeleccionarAreaCirculo extends AppCompatActivity {
     }
 
     public void limpiar(View v){
-        limpiar();
-    }
 
-    public void limpiar(){
         radio_circulo.setText("");
         resultado.setText("");
         radio_circulo.requestFocus();
     }
+
 }

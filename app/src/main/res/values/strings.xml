@@ -22,9 +22,25 @@
     <string name="valor_radio">Valor radio:</string>
     <string name="volumen">Volumen:</string>
     <string name="error_radio">Digite el radio</string>
+    <string name="error_lado">Digite el lado</string>
+    <string name="error_base">Digite la base</string>
+    <string name="error_altura">Digite la altura</string>
     <string name="numero">No</string>
     <string name="operacion">Operación</string>
     <string name="datos">Datos</string>
+    <string name="msj_area_del_circulo">Area del circulo</string>
+    <string name="msj_area_del_cuadrado">Area del cuadrado</string>
+    <string name="msj_area_del_rectangulo">Area del rectangulo</string>
+    <string name="msj_area_del_triangulo">Area del triangulo</string>
+    <string name="msj_volumen_de_esfera">Volumen de esfera</string>
+    <string name="msj_volumen_de_cilindro">Volumen de cilindro</string>
+    <string name="msj_volumen_de_cono">Volumen de cono</string>
+    <string name="msj_volumen_de_cubo">Volumen de cubo</string>
+    <string name="msj_radio">Radio:</string>
+    <string name="msj_lado">Lado:</string>
+    <string name="msj_base">Base:</string>
+    <string name="msj_altura">Altura:</string>
+
 
 
     <string-array name="opciones">

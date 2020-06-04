@@ -23,4 +23,22 @@
     <string name="valor_radio">Radius value</string>
     <string name="volumen">Volume:</string>
     <string name="error_radio">Type radius</string>
+    <string name="numero">No</string>
+    <string name="operacion">Operatión</string>
+    <string name="datos">Data</string>
+    <string name="msj_area_del_circulo">Circle area</string>
+    <string name="msj_radio">Radius:</string>
+    <string name="error_lado">Type side</string>
+    <string name="msj_area_del_cuadrado">Quadrate area</string>
+    <string name="msj_lado">Side:</string>
+    <string name="msj_base">Base:</string>
+    <string name="msj_altura">Height:</string>
+    <string name="msj_area_del_rectangulo">Rectangle area</string>
+    <string name="error_base">Type base</string>
+    <string name="error_altura">Type Height</string>
+    <string name="msj_area_del_triangulo">Triangle area</string>
+    <string name="msj_volumen_de_esfera">Sphere volume</string>
+    <string name="msj_volumen_de_cilindro">Cylinder volume</string>
+    <string name="msj_volumen_de_cono">Cone volume</string>
+    <string name="msj_volumen_de_cubo">Cube volume</string>
 </resources>
